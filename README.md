@@ -1,4 +1,4 @@
-# Assignment - 03
+# JavaScript Simple Assignment
 
 - **Problem 01** - Divide the Asset  
 - **Problem 02** - Cycle or  Laptop  
